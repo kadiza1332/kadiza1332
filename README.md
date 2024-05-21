@@ -1,4 +1,4 @@
-### Cheffe Section Accueil et Information a la Scolarité de l'Université de Labé 👋
+### Cheffe Section Accueil et Information à la Scolarité de l'Université de Labé 👋
 
 <!--
 **kadiza1332/kadiza1332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
