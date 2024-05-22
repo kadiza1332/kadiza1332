@@ -1,5 +1,5 @@
 ### Cheffe Section Accueil et Information à la Scolarité de l'Université de Labé 👋
- ###CONNAISSANCES EN INFORMATIQUES :
+ CONNAISSANCES EN INFORMATIQUES :
 	Analyse, et Conception des Systèmes d’Informations : MERISE, MySQL, SQL ; 
 	Gestion des Bases de données : Ms Access, MySQL ; 
 	Informatique de base: Ms. Windows, Ms Word, Ms. Excel, PowerPoint;
