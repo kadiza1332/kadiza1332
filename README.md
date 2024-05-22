@@ -1,4 +1,9 @@
 ### Cheffe Section Accueil et Information à la Scolarité de l'Université de Labé 👋
+ ###CONNAISSANCES EN INFORMATIQUES :
+	Analyse, et Conception des Systèmes d’Informations : MERISE, MySQL, SQL ; 
+	Gestion des Bases de données : Ms Access, MySQL ; 
+	Informatique de base: Ms. Windows, Ms Word, Ms. Excel, PowerPoint;
+	Administration Réseaux Informatiques / Systèmes (Windows server).
 
 <!--
 **kadiza1332/kadiza1332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
